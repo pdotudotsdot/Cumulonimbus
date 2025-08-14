@@ -1,0 +1,30 @@
+{
+  "item.cumulonimbus.sky_ruby": "Sky Ruby",
+  "item.cumulonimbus.clouds_in_a_bottle": "Clouds in a Bottle",
+  "item.cumulonimbus.sky_spider_spawn_egg": "Sky Spider Spawn Egg",
+
+  "item.cumulonimbus.sky_ruby_boots": "Sky Ruby Boots",
+  "item.cumulonimbus.sky_ruby_leggings": "Sky Ruby Leggings",
+  "item.cumulonimbus.sky_ruby_chestplate": "Sky Ruby Chestplate",
+  "item.cumulonimbus.sky_ruby_helmet": "Sky Ruby Helmet",
+
+  "block.cumulonimbus.sky_ruby_block": "Block of Sky Ruby",
+  "block.cumulonimbus.cloud_block": "Cloud Block",
+  "block.cumulonimbus.sky_ruby_ore": "Sky Ruby Ore",
+  "block.cumulonimbus.deepslate_sky_ruby_ore": "Deepslate Sky Ruby Ore",
+
+  "block.cumulonimbus.green_chrysanthemum": "Green Chrysanthemum",
+  "block.cumulonimbus.red_chrysanthemum": "Red Chrysanthemum",
+  "block.cumulonimbus.orange_chrysanthemum": "Orange Chrysanthemum",
+  "block.cumulonimbus.yellow_chrysanthemum": "Yellow Chrysanthemum",
+  "block.cumulonimbus.white_chrysanthemum": "White Chrysanthemum",
+
+  "tooltip.cumulonimbus.shift_down": "Press §eShift§r for more information",
+  "tooltip.cumulonimbus.clouds_in_a_bottle": "Places clouds underneath the user on use",
+
+  "trim_material.cumulonimbus.sky_ruby": "Sky Ruby Material",
+
+  "itemgroup.cumulonimbus.items": "Cumulonimbus",
+
+  "entity.cumulonimbus.sky_spider": "Sky Spider"
+}

@@ -1,0 +1,61 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:air",
+          "value": "minecraft:a",
+          "weight": 60,
+          "quality": 0
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cumulonimbus:sky_ruby",
+          "weight": 20,
+          "quality": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cumulonimbus:cloud_block",
+          "weight": 30,
+          "quality": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cumulonimbus:green_chrysanthemum",
+          "weight": 2,
+          "quality": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cumulonimbus:red_chrysanthemum",
+          "weight": 2,
+          "quality": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cumulonimbus:yellow_chrysanthemum",
+          "weight": 2,
+          "quality": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cumulonimbus:orange_chrysanthemum",
+          "weight": 2,
+          "quality": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cumulonimbus:white_chrysanthemum",
+          "weight": 2,
+          "quality": 1
+        }
+      ]
+    }
+  ],
+  "functions": [],
+  "random_sequence": "1245617717145614"
+}

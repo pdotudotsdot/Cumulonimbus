@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "sky_ruby",
+  "ingredient": {
+    "item": "cumulonimbus:deepslate_sky_ruby_ore"
+  },
+  "result": {
+    "id": "cumulonimbus:sky_ruby"
+  }
+}

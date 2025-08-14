@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "DECORATIONS",
+  "ingredients": [
+    {
+      "item": "cumulonimbus:white_chrysanthemum"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:white_dye"
+  }
+}

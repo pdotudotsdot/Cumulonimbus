@@ -1,0 +1,9 @@
+{
+  "asset_name": "sky_ruby",
+  "description": {
+    "color": "#FFF925",
+    "translate": "trim_material.cumulonimbus.sky_ruby"
+  },
+  "ingredient": "cumulonimbus:sky_ruby",
+  "item_model_index": 0.6
+}

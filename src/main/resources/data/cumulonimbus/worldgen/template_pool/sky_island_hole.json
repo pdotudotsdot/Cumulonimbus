@@ -1,0 +1,22 @@
+{
+  "name": "cumulonimbus:sky_island_hole",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "elements": [
+          {
+            "element_type": "minecraft:single_pool_element",
+            "location": ""
+          }
+        ],
+        "location": "cumulonimbus:sky_island_hole",
+        "processors": "minecraft:empty",
+        "override_liquid_settings": "ignore_waterlogging"
+      }
+    }
+  ]
+}

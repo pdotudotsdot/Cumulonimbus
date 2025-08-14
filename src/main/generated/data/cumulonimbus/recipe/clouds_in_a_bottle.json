@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "1": {
+      "item": "cumulonimbus:sky_ruby"
+    },
+    "2": {
+      "item": "cumulonimbus:cloud_block"
+    },
+    "3": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "pattern": [
+    " 2 ",
+    "131",
+    "111"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cumulonimbus:clouds_in_a_bottle"
+  }
+}

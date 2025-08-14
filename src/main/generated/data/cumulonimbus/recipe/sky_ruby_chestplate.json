@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "1": {
+      "item": "cumulonimbus:sky_ruby"
+    }
+  },
+  "pattern": [
+    "1 1",
+    "111",
+    "111"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cumulonimbus:sky_ruby_chestplate"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cumulonimbus:block/red_chrysanthemum"
+  }
+}

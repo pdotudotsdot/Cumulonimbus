@@ -1,0 +1,32 @@
+{
+  "structures": [
+    {
+      "structure": "cumulonimbus:sky_island_trapped",
+      "weight": 2
+    },
+    {
+      "structure": "cumulonimbus:sky_island_flower",
+      "weight": 3
+    },
+    {
+      "structure": "cumulonimbus:sky_island_rhombus",
+      "weight": 1
+    },
+    {
+      "structure": "cumulonimbus:sky_island_angle",
+      "weight": 3
+    },
+    {
+      "structure": "cumulonimbus:sky_island_hole",
+      "weight": 2
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 20,
+    "separation": 10,
+    "salt": 1646207470,
+    "frequency_reduction_method": "default",
+    "frequency": 1
+  }
+}

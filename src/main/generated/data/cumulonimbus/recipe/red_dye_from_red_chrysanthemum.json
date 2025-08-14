@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "DECORATIONS",
+  "ingredients": [
+    {
+      "item": "cumulonimbus:red_chrysanthemum"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:red_dye"
+  }
+}
